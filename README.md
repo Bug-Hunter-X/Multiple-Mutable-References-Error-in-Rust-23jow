@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: attempting to create multiple mutable references to the same variable.  The `bug.rs` file shows the erroneous code, which results in a compile-time error. The `bugSolution.rs` file provides a corrected version, illustrating how to avoid this issue.
